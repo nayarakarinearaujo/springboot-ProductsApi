@@ -44,8 +44,4 @@ O objetivo principal deste projeto é aprimorar habilidades em desenvolvimento d
 - **Postman**: Utilizado para testes de requisições HTTP.
 - **IDE: IntelliJ**: Ambiente de desenvolvimento integrado utilizado para codificação.
 
-## **Como Configurar e Executar o Projeto**
 
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/products-api-restful.git
